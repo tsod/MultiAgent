@@ -152,7 +152,7 @@ tools: ['codebase', 'editFiles', 'fetch', 'search']
 ## 落檔規則
 
 - CRA 完成訪談後，應將最終 `Change Request` 寫入：
-  `D:\AIProject\Workspaces\<project-name>\change-requests\CR-###\change-request.md`
+  `<project-root>/docs/change-requests/CR-###/change-request.md`
 - `CR-###` 應使用下一個可用編號，例如 `CR-001`、`CR-002`
 - 若 `change-requests\CR-###\` 尚未存在，可由主 agent 建立
 - CRA 只寫 `change-request.md`

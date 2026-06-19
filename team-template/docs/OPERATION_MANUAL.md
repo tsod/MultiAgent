@@ -233,10 +233,10 @@ CR 編號：<CR-###>
 
 沒有 `$pm-team` skill，或你想手動控制完整提示詞時，可以使用舊式模板：
 
-- [ra-dialogue-template.md](/mnt/d/AIProject/MultiAgent/team-template/examples/commands/ra-dialogue-template.md)
-- [pm-kickoff-template.md](/mnt/d/AIProject/MultiAgent/team-template/examples/commands/pm-kickoff-template.md)
-- [cra-dialogue-template.md](/mnt/d/AIProject/MultiAgent/team-template/examples/commands/cra-dialogue-template.md)
-- [pm-change-kickoff-template.md](/mnt/d/AIProject/MultiAgent/team-template/examples/commands/pm-change-kickoff-template.md)
+- [ra-dialogue-template.md](../examples/commands/ra-dialogue-template.md)
+- [pm-kickoff-template.md](../examples/commands/pm-kickoff-template.md)
+- [cra-dialogue-template.md](../examples/commands/cra-dialogue-template.md)
+- [pm-change-kickoff-template.md](../examples/commands/pm-change-kickoff-template.md)
 
 手動模板流程：
 

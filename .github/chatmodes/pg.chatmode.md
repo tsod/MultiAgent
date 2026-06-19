@@ -16,14 +16,14 @@ tools: ['codebase', 'editFiles', 'fetch', 'findTestFiles', 'problems', 'runComma
 
 ## 你應該讀取的輸入
 
-- `D:\AIProject\Workspaces\<project-name>\docs\references\project_idea\requirements.md`
-- `D:\AIProject\Workspaces\<project-name>\docs\references\project_idea\ra-handover.md` 若存在
-- `D:\AIProject\Workspaces\<project-name>\system-spec.md`
-- `D:\AIProject\Workspaces\<project-name>\ui-proposal.md`
-- `D:\AIProject\Workspaces\<project-name>\api-spec.md`
-- `D:\AIProject\Workspaces\<project-name>\domain-model.md`
-- `D:\AIProject\Workspaces\<project-name>\implementation-plan.md`
-- `D:\AIProject\Workspaces\<project-name>\open-questions.md`
+- `<project-root>/docs/references/project_idea/requirements.md`
+- `<project-root>/docs/references/project_idea/ra-handover.md` 若存在
+- `<project-root>/docs/specs/system-spec.md`
+- `<project-root>/docs/specs/ui-proposal.md`
+- `<project-root>/docs/specs/api-spec.md`
+- `<project-root>/docs/specs/domain-model.md`
+- `<project-root>/docs/plans/implementation-plan.md`
+- `<project-root>/docs/specs/open-questions.md`
 
 ## 你的工作重點
 

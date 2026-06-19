@@ -6,7 +6,7 @@
 請你擔任 PM agent。
 
 需求文件在：
-`/mnt/d/AIProject/Workspaces/leave-request-system/docs/references/project_idea/requirements.md`
+`<project-root>/docs/references/project_idea/requirements.md`
 
 請你依照以下方式執行：
 
@@ -25,14 +25,14 @@
    - UI 建議所需的系統互動流程
 4. 收斂 SA 與 SD 的討論結果。
 5. 將結果寫入以下文件：
-   - `/mnt/d/AIProject/Workspaces/leave-request-system/docs/specs/system-spec.md`
-   - `/mnt/d/AIProject/Workspaces/leave-request-system/docs/specs/ui-proposal.md`
-   - `/mnt/d/AIProject/Workspaces/leave-request-system/docs/specs/api-spec.md`
-   - `/mnt/d/AIProject/Workspaces/leave-request-system/docs/specs/domain-model.md`
-   - `/mnt/d/AIProject/Workspaces/leave-request-system/docs/plans/implementation-plan.md`
-   - `/mnt/d/AIProject/Workspaces/leave-request-system/docs/specs/open-questions.md`
-   - `/mnt/d/AIProject/Workspaces/leave-request-system/docs/status/pm-team-status.md`
+   - `<project-root>/docs/specs/system-spec.md`
+   - `<project-root>/docs/specs/ui-proposal.md`
+   - `<project-root>/docs/specs/api-spec.md`
+   - `<project-root>/docs/specs/domain-model.md`
+   - `<project-root>/docs/plans/implementation-plan.md`
+   - `<project-root>/docs/specs/open-questions.md`
+   - `<project-root>/docs/status/pm-team-status.md`
 
 請不要把工作回丟給我，也不要要求我分別和 SA / SD 對話。
-若資訊不足，請先由 PM 與 SA / SD 討論，再把未決事項整理到 `/mnt/d/AIProject/Workspaces/leave-request-system/docs/specs/open-questions.md`。
+若資訊不足，請先由 PM 與 SA / SD 討論，再把未決事項整理到 `<project-root>/docs/specs/open-questions.md`。
 ```

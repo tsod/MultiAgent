@@ -18,8 +18,8 @@ MultiAgent/
 
 - `MultiAgent` 只放規範，不放專案成果。
 - 專案成果應寫回該專案自己的 `project_root`。
-- 若沒有其他明確專案路徑，預設可使用 `/mnt/d/AIProject/Workspaces/<project-name>/` 作為 `project_root`。
-- 搬遷前資料、舊需求與歷史輸出放在 `/mnt/d/AIProject/Archives/`。
+- 若沒有其他明確專案路徑，預設可使用 `<workspace-root>/<project-name>/` 作為 `project_root`。
+- 搬遷前資料、舊需求與歷史輸出放在 `<archive-root>/`。
 - 不要在 `MultiAgent` 底下建立正式專案 repo。
 - 不要把 build output、測試資料或正式專案產物放進 `team-template`。
 

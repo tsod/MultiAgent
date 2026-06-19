@@ -8,11 +8,11 @@
 
 2. 打開：
 
-[pm-kickoff-template.md](/mnt/d/AIProject/MultiAgent/team-template/examples/commands/pm-kickoff-template.md)
+[pm-kickoff-template.md](../examples/commands/pm-kickoff-template.md)
 
 如果需求還很模糊，先打開：
 
-[ra-dialogue-template.md](/mnt/d/AIProject/MultiAgent/team-template/examples/commands/ra-dialogue-template.md)
+[ra-dialogue-template.md](../examples/commands/ra-dialogue-template.md)
 
 3. 把裡面的 `<project-name>` 換成你的專案名稱。
 
@@ -22,7 +22,7 @@
 
 1. 如果增修需求還很模糊，先打開：
 
-[cra-dialogue-template.md](/mnt/d/AIProject/MultiAgent/team-template/examples/commands/cra-dialogue-template.md)
+[cra-dialogue-template.md](../examples/commands/cra-dialogue-template.md)
 
 2. 讓 CRA 對談並寫出：
 
@@ -30,7 +30,7 @@
 
 3. 再打開：
 
-[pm-change-kickoff-template.md](/mnt/d/AIProject/MultiAgent/team-template/examples/commands/pm-change-kickoff-template.md)
+[pm-change-kickoff-template.md](../examples/commands/pm-change-kickoff-template.md)
 
 4. 把裡面的 `<project-name>` 與 `<CR-###>` 換成你的專案名稱與變更編號。
 
@@ -64,8 +64,8 @@
 
 ## 例子
 
-- 需求：`/mnt/d/AIProject/Workspaces/leave-request-system/docs/references/project_idea/requirements.md`
-- 輸出：`/mnt/d/AIProject/Workspaces/leave-request-system/docs/`
+- 需求：`<project-root>/docs/references/project_idea/requirements.md`
+- 輸出：`<project-root>/docs/`
 
 ## 一句話
 

@@ -6,7 +6,7 @@
 
 - `MultiAgent` 只放 agent 規範、workflow、prompt、template 與範例。
 - 專案產出一律寫回該專案自己的 `project_root`。
-- `/mnt/d/AIProject/Workspaces/<project-name>/` 只是預設 `project_root`，不是唯一合法位置。
+- `<workspace-root>/<project-name>/` 只是預設 `project_root`，不是唯一合法位置。
 - 不把規格文件、狀態檔或 change request 寫回 `MultiAgent`。
 
 ## 標準目錄
@@ -93,4 +93,4 @@
 - 若使用者明確指定專案路徑，直接使用該路徑作為 `project_root`。
 - 若目前工作目錄已是專案目錄，直接使用目前專案目錄作為 `project_root`。
 - 若能從既有專案結構推導出專案根目錄，使用推導出的 `project_root`。
-- 只有在無法推導時，才使用 `/mnt/d/AIProject/Workspaces/<project-name>/` 作為預設 `project_root`。
+- 只有在無法推導時，才使用 `<workspace-root>/<project-name>/` 作為預設 `project_root`。

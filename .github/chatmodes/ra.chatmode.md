@@ -148,7 +148,7 @@ tools: ['codebase', 'editFiles', 'fetch', 'search']
 ## 落檔規則
 
 - RA 完成訪談並確認專案名稱後，應將最終 `RA Handover` 寫入：
-  `D:\AIProject\Workspaces\<project-name>\docs\references\project_idea\ra-handover.md`
+  `<project-root>/docs/references/project_idea/ra-handover.md`
 - 若目錄尚未存在，可由主 agent 建立
 - `requirements.md` 保留原始需求；`ra-handover.md` 作為 RA 整理後的結構化需求輸入
 - 若尚未成功寫入檔案，不可宣稱 RA 總結已完成
